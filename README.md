@@ -32,72 +32,9 @@ A simple **Restaurant E-Commerce Website** built using **Django** that allows us
 
 ---
 
-# 🍔 Restaurant Web Application (Django)
-
-A simple **Restaurant E-Commerce Website** built using **Django** that allows users to:
-- Browse food items from the menu  
-- Add and remove items from the shopping cart  
-- View cart details  
-- Proceed to checkout and generate a printable bill  
-
----
-
-## 🖥️ Features
-
-### 🧾 Core Functionalities
-- **Menu Page:** Displays all available food items with images, names, and prices.  
-- **Add to Cart:** Users can add multiple items with adjustable quantities.  
-- **Cart Management:**  
-  - View all selected items  
-  - Update or remove items from the cart  
-  - Automatic total price calculation  
-- **Checkout Page:**  
-  - Displays a generated bill for all cart items  
-  - Shows total amount  
-  - Option to print the bill  
-  - Clears cart after checkout  
-
-### ⚙️ Technical Details
-- Backend: **Django Framework (Python)**  
-- Frontend: **HTML5, CSS3, Bootstrap 4**  
-- Database: **SQLite (default Django database)**  
-- Template Engine: **Django Templates**  
-- Session-based cart system (no login required)  
-
----
-
 ## 📂 Project Structure
 
-Restaurant_Web_Project/
-│
-├── Base_App/
-│ ├── migrations/
-│ ├── static/
-│ │ ├── css/
-│ │ ├── js/
-│ │ └── images/
-│ ├── templates/
-│ │ ├── base.html
-│ │ ├── menu.html
-│ │ ├── cart.html
-│ │ └── checkout.html
-│ ├── init.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py
-│ ├── urls.py
-│ └── views.py
-│
-├── Resturant/
-│ ├── init.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
-│
-├── db.sqlite3
-├── manage.py
-└── README.md
+<img width="269" height="531" alt="image" src="https://github.com/user-attachments/assets/0084258f-36e4-4f33-9a5a-41d3a15de694" />
 
 
 ---
